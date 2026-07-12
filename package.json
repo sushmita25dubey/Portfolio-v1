@@ -1,0 +1,8 @@
+{
+  "name": "sushmita-dubey-portfolio",
+  "version": "1.0.0",
+  "description": "Premium developer portfolio for Sushmita Dubey",
+  "scripts": {
+    "dev": "npx browser-sync start --server --files \"*.html, *.css, *.js, assets/*\""
+  }
+}
